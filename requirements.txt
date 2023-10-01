@@ -6,3 +6,4 @@ pandas
 PyYAML
 seaborn
 scikit-learn
+plotly
